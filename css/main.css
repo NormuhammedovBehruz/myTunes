@@ -98,6 +98,10 @@ body {
     color: #fff;
 }
 
+.fa-music {
+    color
+}
+
 .site-link {
     margin: 0;
     margin-bottom: 30px;
@@ -192,6 +196,11 @@ body {
     padding-bottom: 210px;
 }
 
+.img {
+    display: flex;
+    width: 100%;
+}
+
 /* Section */
 
 .sitee-hero {
@@ -255,6 +264,10 @@ body {
     padding-top: 30px;
     padding-bottom: 50px;
     padding-left: 40px;
+}
+
+.sitenav-acitons {
+    display: flex;
 }
 
 .footer-link {
